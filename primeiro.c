@@ -5,7 +5,7 @@
  printf("Digite um valor inteiro e Enter\n");
  scanf("%d", &j);
  printf("Valor de j é %d\n",j);
- return 0; 
+ return 0;
 
 
  }
