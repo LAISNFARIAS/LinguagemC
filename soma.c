@@ -19,7 +19,7 @@ printf("Digite um número:\n");
 
 rs = v1+v2;
 
-printf("O resultado da soma é %d e está em %p\n",rs, &rs);
+printf("O Resultado da Soma é %d e está em %p\n",rs, &rs);
 
     return 0;
 }
