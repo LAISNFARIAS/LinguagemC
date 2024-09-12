@@ -7,6 +7,7 @@ int main(){
     if(num % 2 == 0){
         printf("O número é Par\n");
      }
+     
     else{
         printf("O número é Ímpar\n");
 
