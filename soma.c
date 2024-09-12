@@ -18,6 +18,7 @@ printf("Digite um número:\n");
     printf("O valor de v2 é %d e está em %p\n", v2, &v2);
 
 rs = v1+v2;
+
 printf("O resultado da soma é %d e está em %p\n",rs, &rs);
 
     return 0;
