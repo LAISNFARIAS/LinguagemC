@@ -5,7 +5,7 @@ int main(){
     printf("Digite um ano\n");
     scanf("%d",&ano);
     if(ano % 4 == 0){
-        printf("O ano digitado é bissexto\n");
+        printf("O ano Digitado é Bissexto\n");
     
             }
 return 0;
